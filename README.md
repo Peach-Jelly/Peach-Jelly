@@ -11,8 +11,8 @@ Recently, I became more intrigued with programming languages thanks to a game ca
 Aaaaaanyway, TLDR: I don't know much programming yet, but I think it's fun, and I'd like to learn more. :]
 
 - 📫 How to reach me ...
-Discord: Jelly#0147
-DeviantArt: https://www.deviantart.com/peach-jelly
+- Discord: Jelly#0147
+- DeviantArt: https://www.deviantart.com/peach-jelly
 
 <!---
 Peach-Jelly/Peach-Jelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
