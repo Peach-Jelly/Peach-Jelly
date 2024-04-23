@@ -2,7 +2,7 @@ Last updated 01/30/2024
 
 - 👋 Hi, I’m @Peach-Jelly!
 
-- 🌱 I’m currently pursuing my **Master's in Cybersecurity and Information Assurance**. I have the **Sec+**, **Net+**, **A+**, **CFR**, and **ISC2 CC** and am currently studying for my CySA+, Cloud+ and PenTest+!
+- 🌱 I’m currently pursuing my **Master's in Cybersecurity and Information Assurance**. I have the **CySA+**, **Sec+**, **Net+**, **A+**, **CFR**, and **ISC2 CC** and am currently studying for my PenTest+!
 
 - 💞️ I have limited programming experience, but it really intrigues me! Even though I probably won't be specializing in programming for my career, I'll probably be poking around with coding for fun as a hobby, trying to learn new things. :]
 
